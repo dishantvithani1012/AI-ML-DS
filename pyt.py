@@ -1,5 +1,5 @@
 #python for loops 
-friuts =["apple","banana",cherry]
+friuts =["apple","banana","cherry"]
 for x in friuts:
     print(x)
 
